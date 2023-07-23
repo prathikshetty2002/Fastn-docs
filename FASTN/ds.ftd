@@ -7,6 +7,7 @@ export: markdown,h0,h1,h2,h3,code,rendered,output,image,iframe,youtube,compact-t
 
 -- common.site-logo site-logo: $assets.files.assets.ipsum-logo.svg
 
+
 -- component page:
 children wrapper:
 optional caption title:
