@@ -7,6 +7,7 @@ export: markdown,h0,h1,h2,h3,code,rendered,output,image,iframe,youtube,compact-t
 
 -- common.site-logo site-logo: $assets.files.assets.ipsum-logo.svg
 
+
 -- component page:
 children wrapper:
 optional caption title:
@@ -35,7 +36,7 @@ string site-url: $common.site-url
 -- ftd.ui list page.footer:
 
 -- footer.fastn-footer:
-copyright: Copyright © 2023 - <user_name>.github.io/<repo_name>
+copyright: Copyright © 2023 - prathikshetty2002.github.io/fastn-docs
 site-logo: $common.fastn-logo
 powered-by-text: Powered by
 powered-by-link: https://fastn.com/
